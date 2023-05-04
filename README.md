@@ -40,7 +40,6 @@ Start the server
 
 ```bash
   run app.py
-```
 
 
   
