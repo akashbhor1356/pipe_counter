@@ -19,47 +19,6 @@ How to Use:
 5 - For deployment purposes refer to flask documentation : https://flask.palletsprojects.com/en/1.1.x/deploying/
 
 
-## Video Link
-
-[Drive Link : Live demo and file structure](https://drive.google.com/file/d/1hkByzewWTiG7baFFS49XG-5QIFch6-tl/view?usp=sharing)
-
-  
-## Screenshots
-
-### Home Page
-<p align="center">
-  <img src='Screenshot (649).png'/>
-</p>
-
-### Output page
-
-<p align="center">
-  <img src='Screenshot (653).png'/>
-</p>
-
-  
-## Features
-
-- Dark mode
-- Can use as many times
-- Documentation in the Examples section of webpage
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-
-  
-## Badges
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-## Authors
-
-- [@sonukumarkeshri4](https://www.github.com/sonukumarkeshri4)
-
   
 ## Run Locally
 
@@ -83,11 +42,5 @@ Start the server
   run app.py
 ```
 
-  
-## Tech Stack
-
-**Client:** HTML5, CSS, Javascript, Bootstrap
-
-**Server:** Flask
 
   
