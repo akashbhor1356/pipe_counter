@@ -1,0 +1,6 @@
+pandas
+numpy
+Flask
+cv2
+opencv-python
+gunicorn
